@@ -1,3 +1,4 @@
+package bridge;
 public  class VideoMessage implements MessageType {
 
     public void sendMessage() {

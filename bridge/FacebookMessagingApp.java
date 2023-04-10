@@ -1,3 +1,4 @@
+package bridge;
 public class FacebookMessagingApp extends App {
 
     public FacebookMessagingApp (MessageType messageType) {

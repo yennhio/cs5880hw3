@@ -1,3 +1,4 @@
+package bridge;
 public class TelegramMessagingApp extends App {
 
     public TelegramMessagingApp (MessageType messageType) {

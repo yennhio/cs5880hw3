@@ -1,3 +1,4 @@
+package bridge;
 public class WhatsAppMessagingApp extends App {
 
     public WhatsAppMessagingApp (MessageType messageType) {

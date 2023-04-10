@@ -1,3 +1,4 @@
+package bridge;
 public class TextMessage implements MessageType {
 
     public void sendMessage() {

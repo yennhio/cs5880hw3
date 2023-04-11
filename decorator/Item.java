@@ -1,6 +1,6 @@
 package decorator;
 
 public interface Item {
-    void select();
+    String getItemName();
     double getCost();
 }

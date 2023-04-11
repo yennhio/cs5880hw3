@@ -10,8 +10,8 @@ public class Rice implements Item {
         this.itemName = itemName;
     }
     
-    public void select() {
-        System.out.println("Select: rice" );
+    public String getItemName() {
+        return itemName;
     }
 
     public double getCost() {

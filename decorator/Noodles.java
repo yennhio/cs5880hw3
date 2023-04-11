@@ -10,8 +10,8 @@ public class Noodles implements Item {
         this.itemName = itemName;
     }
 
-    public void select() {
-        System.out.println("Select: noodles");    
+    public String getItemName() {
+        return itemName;    
     }
 
     public double getCost() {
